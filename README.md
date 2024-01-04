@@ -3,11 +3,11 @@
 I am a software developer with a strong foundation in finance and banking. My passion lies in leveraging technology to create innovative financial solutions. I am an eager learner who strives for excellence.
 
 **🚀 Check out some of my recent projects!**
-- **Wood-store (Frontend)**
+- **Wood-Studio (Frontend)**
   - An elegant ecommerce platform for a furniture store.
   - Demo | Repo
 - **Ecommerce API (Backend)** 
-  - Powerful REST API supporting the Wood-store frontend.
+  - Powerful REST API supporting the Wood-Studio frontend.
   - Demo | Repo
 - **BorrowCap (Frontend)**
   - P2P lending made simple on this sleek platform.
