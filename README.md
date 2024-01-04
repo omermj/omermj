@@ -1,4 +1,31 @@
-### Hi there 👋
+# Hi, I am Omer 🙋🏻
+
+I am a software developer with a strong foundation in finance and banking. My passion lies in leveraging technology to create innovative financial solutions. I am an eager learner who strives for excellence.
+
+**🚀 Check out some of my recent projects!**
+- **Wood-store (Frontend)**
+  - An elegant ecommerce platform for a furniture store.
+  - Demo | Repo
+- **Ecommerce API (Backend)** 
+  - Powerful REST API supporting the Wood-store frontend.
+  - Demo | Repo
+- **BorrowCap (Frontend)**
+  - P2P lending made simple on this sleek platform.
+  - Link | Repo
+- **BorrowCap (Backend API)**
+  - Robust REST API powering the BorrowCap app.
+  - Link | Repo
+- **StockSim** 
+  - Dive into the world of virtual stock trading with this simulator.
+  - Link | Repo
+
+**📱 Tech Stack**
+- Languages: Javascript | Typescript | Python
+- Frontend: React | Redux | Bootstrap | Tailwind
+- Backend: Flask | NodeJS | ExpressJS | PostgreSQL | MongoDB | OAuth2
+- Tools: Git | Docker
+
+
 
 <!--
 **omermj/omermj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
