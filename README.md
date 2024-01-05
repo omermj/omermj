@@ -5,19 +5,19 @@ I am a software developer with a strong foundation in finance and banking. My pa
 **🚀 Check out some of my recent projects!**
 - **Wood-Studio (Frontend)**
   - An elegant ecommerce platform for a furniture store.
-  - Demo | Repo
+  - Demo | [Repo](https://github.com/omermj/wood-studio)
 - **Ecommerce API (Backend)** 
   - Powerful REST API supporting the Wood-Studio frontend.
-  - Demo | Repo
+  - Demo | [Repo](https://github.com/omermj/ecommerce-backend)
 - **BorrowCap (Frontend)**
   - P2P lending made simple on this sleek platform.
-  - Link | Repo
+  - Link | [Repo](https://github.com/omermj/borrowcap-frontend)
 - **BorrowCap (Backend API)**
   - Robust REST API powering the BorrowCap app.
-  - Link | Repo
+  - Link | [Repo](https://github.com/omermj/borrowcap-backend)
 - **StockSim** 
   - Dive into the world of virtual stock trading with this simulator.
-  - Link | Repo
+  - Link | [Repo](https://github.com/omermj/stocksim)
 
 **📱 Tech Stack**
 - Languages: Javascript | Typescript | Python
