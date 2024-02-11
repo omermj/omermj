@@ -1,6 +1,6 @@
 # Hi, I am Omer 🙋🏻
 
-I am a software developer with a strong foundation in finance and banking. My passion lies in leveraging technology to create innovative financial solutions. I am an eager learner who strives for excellence.
+I am a software developer with a strong foundation in finance and banking. I leverage technology to create innovative financial solutions.
 
 **🚀 Check out some of my recent projects!**
 - **Wood-Studio (Frontend)**
